@@ -1,0 +1,24 @@
+#header {
+  display: flex;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+#header-img {
+  max-width: 6.48rem;
+  max-height: 6.48rem;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+  padding: 1.62rem;
+}
+
+a {
+  text-decoration: none;
+}
